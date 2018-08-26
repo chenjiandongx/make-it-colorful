@@ -27,7 +27,7 @@
 
 ### 画展
 
-请移步至 [chenjiandongx/make-it-colorful](http://chenjiandongx/make-it-colorful)
+请移步至 [chenjiandongx/make-it-colorful](http://chenjiandongx.com/make-it-colorful)
 
 
 ### Citing
