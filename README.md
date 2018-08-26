@@ -4,15 +4,6 @@
 
 本项目使用了 [siggraph2016_colorization](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/) 一个基于卷积神经网络的图片自动上色模型。我觉得这个想法很赞，就收集一些历史老照片来重新上色看看会是怎样的。图片来源于网络。具体使用方法参考 [官方文档](https://github.com/satoshiiizuka/siggraph2016_colorization)。
 
-<style>
-    img {
-        padding: 0.65em; 
-        background: white;
-        box-shadow: 1px 1px 20px #999;
-        margin-bottom: 1em;
-    }
-</style>
-
 
 ### 初体验
 
