@@ -22,7 +22,7 @@
     <img style="padding: 0.65em; background: white; box-shadow: 1px 1px 20px #999;"  src="https://raw.github.com/chenjiandongx/make-it-colorful/master/images/output/windows_xp_out.png">
 </div>
 
-效果可以说是非常棒了，基本上没有什么违和感！
+效果可以说是非常棒了，基本上没有什么违和感！这个模型用于风景的效果要稍微强于人物。
 
 
 ### 画展
@@ -208,7 +208,8 @@ W.H.墨菲和他的同事展示他们的防弹背心。1923 年 10 月 13 日。
 </div>
 
 
-### 引用
+### Citing
+
 ```
  @Article{IizukaSIGGRAPH2016,
    author = {Satoshi Iizuka and Edgar Simo-Serra and Hiroshi Ishikawa},
