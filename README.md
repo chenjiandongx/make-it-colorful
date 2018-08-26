@@ -21,13 +21,17 @@
 <div align="center">
     <img src="images/output/windows_xp_out.png">
 </div>
-效果可以说是非常棒了，基本上没有什么违和感！
+
+效果可以说是非常棒了，基本上没有什么违和感！这个模型用于风景的效果要稍微强于人物。
+
 
 ### 画展
 
 请移步至 [chenjiandongx/make-it-colorful](http://chenjiandongx/make-it-colorful)
 
-### 引用
+
+### Citing
+
 ```
  @Article{IizukaSIGGRAPH2016,
    author = {Satoshi Iizuka and Edgar Simo-Serra and Hiroshi Ishikawa},
